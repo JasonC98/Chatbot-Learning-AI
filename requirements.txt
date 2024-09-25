@@ -1,7 +1,8 @@
 langchain
 langchain-chroma>=0.1.2
 langchain-huggingface
+langchain-community
 peft
 torch
-transformers
+sentence-transformers
 langdetect
