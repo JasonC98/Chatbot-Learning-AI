@@ -121,7 +121,7 @@ class RAGChatbot:
 # Streamlit app setup
 if "chatbot" not in st.session_state:
     model_id = "kalisai/Nusantara-2.7b-Indo-Chat-v0.2"
-    lora_model_path = "model_trained/new 2000"
+    lora_model_path = "model_trained_2000/model"
     chroma_dir = "1000_DB"
     embedding_model = "sentence-transformers/all-MiniLM-L6-v2"
 
