@@ -1,0 +1,7 @@
+langchain
+langchain-chroma>=0.1.2
+langchain-huggingface
+peft
+torch
+transformers
+langdetect
